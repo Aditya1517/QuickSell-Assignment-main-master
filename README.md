@@ -8,7 +8,7 @@
 - Roll No.: 21BRS1615
 - Email (College): mohiteaditya.kiran2021@vitstudent.ac.in
 - Email (Personal): adityamohiteakm@gmail.com
-- Hosted Site: 
+- Hosted Site: https://quick-sell-assignment-nu.vercel.app/
 
 # Usage
 
